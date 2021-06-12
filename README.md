@@ -20,9 +20,9 @@ php artisan migrate
 ```
 
 ## feature test
-create user registration test at tests/Feature/feature/UserTest
+user registration test at tests/Feature/feature/UserTest
 
 ## usage
 
-kindly click on this [link](https://documenter.getpostman.com/view/12538701/TzY68ZWY) to view the documentation pulished on postman
+kindly click on this [link](https://documenter.getpostman.com/view/12538701/TzY68ZWY) to view the documentation published on postman
 
